@@ -1,5 +1,8 @@
 _repo: Micah-ClarkeGervas-and-Reuben-During-the-Hard-Winter-of-1734_9504
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -33,6 +36,8 @@ description: "Micah Clarke is an historical adventure novel by British author Ar
   \ toleration is a great good. Conan Doyle had himself been brought up as a Catholic\
   \ and it is likely that Micah expresses his own thoughts on the subject.\n\n\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9504#Micah-ClarkeGervas-and-Reuben-During-the-Hard-Winter-of-1734
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
